@@ -128,7 +128,7 @@
 }
 
 .feat {
-    border: 2px solid #382110;
+    border: 1px solid #c2c2c2;
     float: left;
     text-align: center;
     width: 30%;
@@ -279,7 +279,7 @@
 }
 
 .cat {
-    border: 2px solid #382110;
+    border: 1px solid #c2c2c2;
     float: left;
     width: 30%;
     overflow: auto;
@@ -489,7 +489,7 @@
 }
 
 .table {
-    border: 2px solid #382110;
+    border: 1px solid black;
     float: left;
     width: 26%;
     border-radius: 55px;
@@ -718,7 +718,7 @@
     font-size: 17px;
     padding-left: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #ffbc42;
+    color: #3297da;
 }
 
 /* ------------------------------------------section9---------------------------------------------- */
